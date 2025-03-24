@@ -9,6 +9,7 @@ import App from './App.vue' // Componente principal de la aplicación
 import router from './router' // Configuración de Vue Router
 
 import Toast from 'vue-toastification';
+import './config/yup'
 import 'vue-toastification/dist/index.css';
 
 const app = createApp(App) // Crear la instancia de la aplicación Vue
