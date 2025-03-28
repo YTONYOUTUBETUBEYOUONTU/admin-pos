@@ -222,7 +222,7 @@
     </div>
     <div class="flex flex-col flex-grow">
       <div class="flex items-center flex-shrink-0 h-16 px-8 border-b border-gray-300">
-        <h1 class="text-lg font-medium">{ username }</h1>
+        <h1 class="text-lg font-medium">{{ username }}</h1>
         <button
           class="flex items-center justify-center h-10 px-4 ml-auto text-sm font-medium rounded hover:bg-gray-300"
         >
